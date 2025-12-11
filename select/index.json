@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "reversal",
+  "base_artist": "Anna",
+  "createdAt": "2025-12-11T00:55:03.623193Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reversal",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/01_Reversal_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paternal Reversal",
+      "artist": "Bayside",
+      "has_synced": true,
+      "path": "select/02_Paternal_Reversal_Bayside.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reversal",
+      "artist": "Forever Never",
+      "has_synced": false,
+      "path": "select/03_Reversal_Forever_Never.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In Reversal",
+      "artist": "Extol",
+      "has_synced": true,
+      "path": "select/04_In_Reversal_Extol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Warmth Trance Reversal",
+      "artist": "Yellow Eyes",
+      "has_synced": false,
+      "path": "select/05_Warmth_Trance_Reversal_Yellow_Eyes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reversal",
+      "artist": "Raised Fist",
+      "has_synced": true,
+      "path": "select/06_Reversal_Raised_Fist.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Deer & The Wolf - Role Reversal",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/07_The_Deer_&_The_Wolf_-_Role_Reversal_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Deer & The Wolf (Role Reversal)",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/08_The_Deer_&_The_Wolf_(Role_Reversal)_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reversal",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/09_Reversal_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reversal",
+      "artist": "The Church",
+      "has_synced": false,
+      "path": "select/10_Reversal_The_Church.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Reversal",
+      "artist": "Dilated Peoples",
+      "has_synced": true,
+      "path": "select/11_The_Reversal_Dilated_Peoples.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Is the Reversal",
+      "artist": "Starfield",
+      "has_synced": false,
+      "path": "select/12_Love_Is_the_Reversal_Starfield.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Deer & The Wolf (Role Reversal)",
+      "artist": "Sophie Ellis‐Bextor",
+      "has_synced": true,
+      "path": "select/13_The_Deer_&_The_Wolf_(Role_Reversal)_Sophie_Ellis‐Bextor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Paternal Reversal - Acoustic Version",
+      "artist": "Bayside",
+      "has_synced": true,
+      "path": "select/14_Paternal_Reversal_-_Acoustic_Version_Bayside.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Paternal Reversal (Acoustic)",
+      "artist": "Bayside",
+      "has_synced": true,
+      "path": "select/15_Paternal_Reversal_(Acoustic)_Bayside.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "reversal",
+      "artist": "Anna",
+      "has_synced": true,
+      "path": "select/16_reversal_Anna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "reversal",
+      "artist": "Anna",
+      "has_synced": false,
+      "path": "select/pl_01_reversal_Anna.txt"
+    }
+  ]
+}
